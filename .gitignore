@@ -1,0 +1,6 @@
+*.swp
+*~
+*.env
+.DS_Store
+
+*.docset
